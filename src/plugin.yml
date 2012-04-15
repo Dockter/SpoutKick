@@ -4,4 +4,4 @@ description: Broadcasts a message in chat when a user is kicked for not running 
 author: Dockter / Top_Cat
 depend: [Spout]
 
-main: net.Dockter.SpoutKick.Main
+main: net.dockter.SpoutKick.Main
