@@ -1,7 +1,7 @@
-name: QuitMessage
-version: 1.0.0
-description: Broadcasts a message when someone is not using spoutcraft
-author: Top_Cat
+name: SpoutKick
+version: 1.0.1
+description: Broadcasts a message in chat when a user is kicked for not running Spoutcraft
+author: Dockter / Top_Cat
 depend: [Spout]
 
-main: uk.co.thomasc.quitmessage.Main
+main: net.Dockter.SpoutKick.Main
