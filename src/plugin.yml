@@ -2,5 +2,6 @@ name: QuitMessage
 version: 1.0.0
 description: Broadcasts a message when someone is not using spoutcraft
 author: Top_Cat
+depend: [Spout]
 
 main: uk.co.thomasc.quitmessage.Main
